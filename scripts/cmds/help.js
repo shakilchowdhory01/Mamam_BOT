@@ -102,7 +102,7 @@ module.exports = {
           const guide = conf.guide ? (typeof conf.guide === "string" ? conf.guide : conf.guide.en || "") : "";
           info += `│ 📚 Usage:\n│ ${guide.replace(/{pn}/g, `/${conf.name}`) || "No guide"}\n`;
           info += `╰───────────────────◊\n`;
-          info += `   🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰Command Info`;
+          info += `   🔰SHAKIL BOT🔰Command Info`;
 
           return await sendMessage(info);
         } else {
@@ -112,7 +112,7 @@ module.exports = {
 
       // ========== FULL HELP ==========
       const categories = getCategories();
-      let help = "╭────────『🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰』────────◊\n\n";
+      let help = "╭────────『🔰SHAKIL_𝗕𝗼𝘁🔰』────────◊\n\n";
       for (const cat in categories) {
         help += `╭─ ${cat.toUpperCase()} (${categories[cat].length})\n`;
         help += `│ ✦ ${categories[cat].join(" ✦ ")}\n`;
@@ -122,9 +122,9 @@ module.exports = {
       help += "│ 💡 Tips:\n";
       help += "│ • /help <cmd>\n";
       help += "│ • /help | <category>\n";
-      help += "│👉আমার বস: m.me/61561511477968\n";
+      help += "│👉আমার বস: /61578993171251\n";
       help += "╰─────────────◊\n";
-      help += "         「 🔰𝗥𝗮𝗵𝗮𝘁_𝗕𝗼𝘁🔰 」";
+      help += "         「 🔰SHAKIL BOT🔰 」";
 
       return await sendMessage(help);
 
