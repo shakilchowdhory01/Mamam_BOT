@@ -1,4 +1,4 @@
-// murgii.js — GoatBot V2 version (Only Bot Admin)
+-add // murgii.js — GoatBot V2 version (Only Bot Admin)
 module.exports = {
   config: {
     name: "murgi",
@@ -84,8 +84,5 @@ module.exports = {
     // Send message every 3 seconds
     messages.forEach((msg, i) => {
       setTimeout(() => {
-        send({ body: msg, mentions: arraytag });
-      }, i * 3000);
-    });
-  }
-};     
+        send({ body:
+};
