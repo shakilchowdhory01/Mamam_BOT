@@ -1,21 +1,101 @@
-# Security Policy
-
-## Supported Versions
-
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100090566657970%22%3A%22PXHijm0W%22%2C%22100091206706405%22%3A%22j9bl64jQ%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.143Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "datr",
+        "value": "sTfAaC5TxRoa8Uz_cRoYS5zl",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "sb",
+        "value": "sTfAaDLlvqAB6SCzvkaXf467",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B656x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100091206706405",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "xs",
+        "value": "43%3AdpBQpOPMs6Rotg%3A2%3A1757679924%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "fr",
+        "value": "0fHXHE1LDJi4vZxJx.AWdMHZVNWXrxklo3A-MRuwsb4nwTSo6Ra1dqBDsi7TSk5VXMwkU.BowDex..AAA.0.0.BoxBE6.AWcBkOxyvW9Kjvzqf4YbJYuq7Rc",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "pas",
+        "value": "100090566657970%3AfoqjHlibIf%2C100091206706405%3AaEQ4ysfWQe",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101727791%3BT%3A29294665",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A2920%3Btimestamp%3A1757679930",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2025-09-14T02:59:28.144Z",
+        "lastAccessed": "2025-09-14T02:59:28.144Z"
+    }
+]
